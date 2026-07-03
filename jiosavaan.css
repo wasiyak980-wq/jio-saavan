@@ -1,0 +1,267 @@
+body{font-family:sans-serif;
+    background-color:rgba(240, 240, 240,0.9)}
+
+
+.nav1{
+     height:40px;
+	 padding:1%;
+	 background-color:;}
+
+.logo{width:3%;
+     height:50px;
+	 float:left;
+	  margin-top:0px;
+    background-color:;}
+
+.img{width:100%;
+     
+      height:45px;}
+	  
+.logo1{font-size:20px;
+       background-color:;
+       font-weight:bold;
+	  }	
+   
+.logo3{width:30%;
+      float:left;
+	  margin-top:15px;
+	  margin-left:10px;
+       background-color:;}
+	 
+.name{font-size:15px;
+     padding:2%;
+	 margin-left:1px;
+	 font-weight:bold;
+	 color:rgba(61, 61, 61);}	
+
+.name:hover{color:black;
+           border-bottom:3px solid black;}	 
+
+.search{width:33%;
+       height:40px;
+	   float:left;
+	   margin-top:12px;
+	   border-radius:20px;
+	   background-color:white;
+	  }
+	  
+.ser{margin-left:200px;}
+
+.logo2{width:24%;
+       float:left;
+	   margin-top:20px;
+	   margin-left:100px;
+      background-color:; }	
+  
+  
+hr{color:rgba(207, 207, 207.0.5)}
+
+aside{background-color:;
+      width:11%;
+	  float:left;  
+	  height:560px;
+	  }
+	  
+.my{color:rgba(69, 69, 69);
+    font-weight:bold;
+	padding-top:8%;
+	font-size:13px;
+	margin-left:49px;}	  
+	
+.side{margin-left:50px;
+      font-weight:bold;
+	  margin-top:30px;
+      color:rgba(61, 61, 61);  }
+	  
+.margin1{margin-top:10px;}	
+
+.padding{margin-left:10px;}  
+
+.icon{padding:2%;}
+
+.hindi{font-size:10px;
+      margin-left:30px:}
+
+.new{padding:5%;
+     width:80%;
+	 color: rgba(43, 197, 180);
+    border-radius:20px;
+	margin-left:31px;
+	border:2px solid  #2BC5B4;}
+	
+.margin1:hover{color:black;}	
+	
+
+
+.section1{width:82%;
+        height:550px;
+	    margin-left:200px;
+		overflow-y:scroll;
+		background-color:;}
+
+h2{ padding:2%; 
+   color:rgba(61, 61, 61,0.8);}	
+   
+figure{width:12%;
+       height:160px;
+	   background-color:;
+	   float:left;
+	   margin-left:10px;
+	   }  
+
+
+.img1{width:100%;
+      height:130px;
+	  object-fit:cover;
+	  border-radius:5px;
+}	   
+	
+figcaption{margin-left:50px;
+          font-weight:bold;
+		font-size:13px;
+		}	
+
+.artist{margin-left:25px;
+        font-weight:bold;
+		font-size:12px;
+		 color:rgba(61, 61, 61,0.5);}
+		
+.artist:hover{color:black;}	
+
+
+.queue{width:4%;
+       margin-top:30px;
+       height:500px;
+	   float:right;  
+	   background-color:white;
+	  }
+	  
+.qe{text-align:center;
+    font-weight:bold;
+    padding:3%;
+    color:rgba(61, 61, 61,0.9);
+    border-bottom:1px solid #BFBFBF;}	  
+	
+.m{margin-left:30px}
+
+.art{margin-left:15px;}	
+
+.jhol{margin-left:55px;}	
+	
+.de{margin-left:40px;}	
+
+.tera{margin-left:23px;}
+
+.pri{margin-left:16px;}
+
+.circle{border-radius:50%;}
+
+.width{width:96%;}
+
+.mt{ color:rgba(61, 61, 61,0.8);}
+  
+.pa{padding-bottom:2%;}
+ 
+ .info{background-color:;
+	   margin-top:60px;
+	   color:rgba(61, 61, 61,0.9);
+	   width:15%; 
+	   float:left;
+        }
+ 
+.p1{font-size:12px;
+   padding:1%;
+   font-weight:bold;
+   margin-left:30px;} 
+   
+.artn{margin-left:30px;
+      font-size:12px;
+	  line-height:9px; 
+	  padding-top:0%;
+	  }   
+	  
+.artn:hover{color:black;}	  
+	  
+.ainfo{float:left;
+       margin-left:10px;
+       background-color:yellow;}
+	  
+.padding{margin-left:100px;}	  
+	  
+.float:{float:none;}
+
+
+.line{width:89%;
+      margin-left:30px;
+      margin-top:660px;}
+	 
+.ls{margin-left:20px;
+    font-size:12px;
+	color:rgba(61, 61, 61,0.9);}	 
+
+.pad{padding:2%;}
+	 
+footer{font-size:13px;
+      width:95%;
+	color:rgba(61, 61, 61,0.9);
+	padding-bottom:2%;}
+
+.us{color:black;
+    font-size:13px;
+	margin-left:570px;}	
+
+.if{color:#39569C;
+    font-size:25px;
+	margin-left:10px;
+}
+
+.foot{margin-left:30px;}
+
+.line2{width:93%;}
+
+.ix{color:black;
+   margin-left:5px;}
+   
+.iy{color:#C4302B;}  
+
+.ii{color:#DD2A7B;} 
+
+.in{color:#0a66c2;}
+
+.play{background-color:;
+      margin-top:9px;
+	  }
+	  
+.line3{height:5px;
+      background-color:rgba(61, 61, 61,0.2);}	  
+	  
+	  .box{width:3.5%;
+	       height:50px;
+		   margin:10px;
+		   float:left;
+		   background-color:rgba(61, 61, 61,0.2);}
+		   
+		   
+.icons{width:20%;
+      background-color:;
+	  float:left;
+	  margin-top:20px;
+	  margin-left:520px;}	
+
+.icon1{font-size:40px;
+       color:rgba(61, 61, 61,0.5);}
+
+.size{font-size:30px;
+    margin-left:10px;}
+
+.icons1{width:20%;
+      color:rgba(61, 61, 61,0.5);
+	  float:left;
+	  margin-top:25px;
+	  margin-left:200px;}
+	  
+hr{border:1px solid rgba(61, 61, 61,0.1);}	  
+	  
+audio{width:1%;
+     float:left;
+     margin-left:;}	  
